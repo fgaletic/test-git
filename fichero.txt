@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hey there
 hey hey
+=======
+even newer line
+>>>>>>> dev
